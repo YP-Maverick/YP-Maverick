@@ -42,7 +42,7 @@
 
 ## GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YP-Maverick&show_icons=true&count_private=true&theme=gruvbox"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YP-Maverick&show_icons=true&count_private=true&theme=dark"/>
 
 <br/>
 
